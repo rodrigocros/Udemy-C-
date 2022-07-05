@@ -1,0 +1,15 @@
+/Users/rodrigocostadarosa/Desktop/Github/Udemy-C-/GerenciadorEstoque/obj/Debug/net6.0/GerenciadorEstoque.csproj.AssemblyReference.cache
+/Users/rodrigocostadarosa/Desktop/Github/Udemy-C-/GerenciadorEstoque/obj/Debug/net6.0/GerenciadorEstoque.GeneratedMSBuildEditorConfig.editorconfig
+/Users/rodrigocostadarosa/Desktop/Github/Udemy-C-/GerenciadorEstoque/obj/Debug/net6.0/GerenciadorEstoque.AssemblyInfoInputs.cache
+/Users/rodrigocostadarosa/Desktop/Github/Udemy-C-/GerenciadorEstoque/obj/Debug/net6.0/GerenciadorEstoque.AssemblyInfo.cs
+/Users/rodrigocostadarosa/Desktop/Github/Udemy-C-/GerenciadorEstoque/obj/Debug/net6.0/GerenciadorEstoque.csproj.CoreCompileInputs.cache
+/Users/rodrigocostadarosa/Desktop/Github/Udemy-C-/GerenciadorEstoque/bin/Debug/net6.0/GerenciadorEstoque
+/Users/rodrigocostadarosa/Desktop/Github/Udemy-C-/GerenciadorEstoque/bin/Debug/net6.0/GerenciadorEstoque.deps.json
+/Users/rodrigocostadarosa/Desktop/Github/Udemy-C-/GerenciadorEstoque/bin/Debug/net6.0/GerenciadorEstoque.runtimeconfig.json
+/Users/rodrigocostadarosa/Desktop/Github/Udemy-C-/GerenciadorEstoque/bin/Debug/net6.0/GerenciadorEstoque.dll
+/Users/rodrigocostadarosa/Desktop/Github/Udemy-C-/GerenciadorEstoque/bin/Debug/net6.0/GerenciadorEstoque.pdb
+/Users/rodrigocostadarosa/Desktop/Github/Udemy-C-/GerenciadorEstoque/obj/Debug/net6.0/GerenciadorEstoque.dll
+/Users/rodrigocostadarosa/Desktop/Github/Udemy-C-/GerenciadorEstoque/obj/Debug/net6.0/refint/GerenciadorEstoque.dll
+/Users/rodrigocostadarosa/Desktop/Github/Udemy-C-/GerenciadorEstoque/obj/Debug/net6.0/GerenciadorEstoque.pdb
+/Users/rodrigocostadarosa/Desktop/Github/Udemy-C-/GerenciadorEstoque/obj/Debug/net6.0/GerenciadorEstoque.genruntimeconfig.cache
+/Users/rodrigocostadarosa/Desktop/Github/Udemy-C-/GerenciadorEstoque/obj/Debug/net6.0/ref/GerenciadorEstoque.dll
